@@ -1,2 +1,2 @@
-# GasMialageCalculator
-GasMialageCalculator
+# GasMileageCalculator
+GasMileageCalculator
